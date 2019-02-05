@@ -1,0 +1,53 @@
+header h1 {
+  width: 100%;
+  text-align: center;
+  color: white;
+  font-size: 30px;
+  padding: 20px;
+  padding-top: 20px;
+  background: gray;
+  font-weight: bold
+}
+
+footer {
+  width: 100%;
+  text-align: center;
+  color: yellow;
+  bottom: 0px;
+  background-color: violet;
+  position: absolute;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+div.menu {
+    font-size: 20px;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -25%;
+  transform: translate(-220%, 0%)
+}
+
+div.menu1 {
+	 
+  font-size: 20px;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -25%;
+  transform: translate(250%, -25%)
+       
+}
+
+
+section {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  width: 50%;
+}
